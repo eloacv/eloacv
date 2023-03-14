@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eloá -- Hola soy Eloá -- Salut, c´est Eloá 
-- 🌱 I’m currently learning how to code in Java ... I will upload here my beginner´s projects :smiley:
+- 🌱 I’m currently learning how to code ... I will upload here my beginner´s projects :smiley:
 
 
 <!---
